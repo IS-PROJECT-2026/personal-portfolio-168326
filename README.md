@@ -6,7 +6,6 @@ This repository contains the source code for my personal portfolio micro-system.
 ## Live Deployment
 The portfolio is deployed live via GitHub Pages. You can view the active site here:
 **[View Live Portfolio](https://is-project-2026.github.io/personal-portfolio-168326/)** 
-*(Note: This link will be fully active once the GitHub Pages build process completes).*
 
 ## Technologies Used
 This static web project was built and deployed using:
